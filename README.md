@@ -1,39 +1,13 @@
-<html>
 <h1 align="center">Sup @everyone, I'm Matt 🤙</h1>
 </br>
-<style>
-    .container {
-        margin: 15px;
-        padding: 15px;
-        border: 1px solid #ccc;
-        overflow: hidden;
-    }
-
-    .text {
-        float: left;
-        width: calc(50% - 7.5px);
-    }
-
-    .image {
-        float: right;
-        width: calc(50% - 7.5px);
-    }
-
-    /* Для примера стилей */
-    p {
-        margin: 0;
-    }
-</style>
-
-<div class="container">
-    <div class="text">
-        <p>МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА МНОГО ТЕСТОВОГО ТЕКСТА </p>
+<div style="overflow: hidden;">
+    <div style="float: left; width: 50%; padding-right: 15px;">
+        <p>ТЕКСТТТСТТСТСТСТТСТСТТСТСТ</p>
     </div>
-    <div class="image">
+    <div style="float: right; width: 50%; padding-left: 15px;">
         <img src="src/sticker.png" alt="Logo">
     </div>
 </div>
-</html>
 
 <!--
 **mruax/mruax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
