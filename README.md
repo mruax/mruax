@@ -10,6 +10,8 @@ I'll pin up some projects in profile soon!
 
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/mruax)
 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/matvey_chernyak1)
+
 ### About me
 
 Beginning backend developer ✨
