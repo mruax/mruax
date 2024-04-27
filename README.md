@@ -1,12 +1,11 @@
 <h1 align="center">Sup @everyone, I'm Matt 🤙</h1>
 </br>
-<p>
-    Тест:
-    - тест 1
-    - тест 2
-    - тест 3
-</p>
-![Logo](src/sticker.png)
+
+# Test
+* test 1  ![Logo](/src/sticker.png)
+* test 2
+* test 3
+
 
 
 
