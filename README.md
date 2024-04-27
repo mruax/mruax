@@ -3,8 +3,9 @@
 
 ### Links
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) [leetcode](https://leetcode.com/u/mateus4444/)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [codewars](https://www.codewars.com/users/mruax)
+![[leetcode](https://leetcode.com/u/mateus4444/)](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
+
+![[codewars](https://www.codewars.com/users/mruax)](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
 
 ### About me
 
