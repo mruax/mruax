@@ -1,3 +1,4 @@
+<html>
 <h1 align="center">Sup @everyone, I'm Matt 🤙</h1>
 </br>
 <style>
@@ -32,6 +33,7 @@
         <img src="src/sticker.png" alt="Logo">
     </div>
 </div>
+</html>
 
 <!--
 **mruax/mruax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
