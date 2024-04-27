@@ -1,5 +1,8 @@
 <h1 align="center">Sup @everyone, I'm Matt 🤙</h1>
+
 </br>
+
+I'll pin up some projects in profile soon!
 
 ### Links
 
