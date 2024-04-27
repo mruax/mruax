@@ -6,9 +6,7 @@
     - тест 2
     - тест 3
 </p>
-<aside>
-    <img src="src/sticker.png" alt="Logo">
-</aside>
+![Logo](src/sticker.png)
 
 
 
