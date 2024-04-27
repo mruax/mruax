@@ -1,14 +1,17 @@
 <h1 align="center">Sup @everyone, I'm Matt 🤙</h1>
 </br>
 
-# Test
-* test 1  ![Logo](/src/sticker.png)
-* test 2
-* test 3
+### Links
 
+* ![leetcode](https://leetcode.com/u/mateus4444/)
+* ![codewars](https://www.codewars.com/users/mruax)
 
+### About me
 
+Beginner backend developer ✨
+![Logo](/src/sticker.png)
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--
 **mruax/mruax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
