@@ -2,7 +2,7 @@
 
 </br>
 
-I'll pin up some projects in profile soon!
+Yep, I have a lot of private repos 😎
 
 ### Links
 
