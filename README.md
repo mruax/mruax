@@ -24,7 +24,10 @@ SRE junior+ ✨
 <details><summary>Projects</summary>
 
    1. [Scientific research work](https://github.com/rottenpearr/lattice_definition)
-   2. [Hackathon](https://github.com/m3kskssssssss/web-uralsky-pelmeni)
+   2. [Хакатон ФТИ 2024](https://github.com/mruax/KIKORIKI_hackathon)
+   3. [Хакатон Сбер Уральский код 2024](https://github.com/m3kskssssssss/web-uralsky-pelmeni)
+   4. [Хакатон T1 2025](https://github.com/mruax/T1_Terraform_Hackathon)
+   5. [Хакатон Сбер Уральский код 2025](https://github.com/mruax/S_UC_H_2025)
 
 </details>
 
