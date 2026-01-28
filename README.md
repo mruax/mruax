@@ -5,7 +5,7 @@
 hii
 
 ### CV's
-
+<!--
 <table border="0">
   <tr>
     <td align="center" width="33%" style="border: none;">
@@ -24,6 +24,19 @@ hii
     </td>
   </tr>
 </table>
+-->
+
+<p align="center">
+  <kbd>
+    <a href="ССЫЛКА_1"><img src="/src/CV_ICON.png" width="100"></a>
+    <br>Подпись 1
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="100"></a>
+    <br>Подпись 2
+  </kbd>
+</p>
 
 <!--
 ![CV1](/src/CV_ICON.png)()
