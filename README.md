@@ -39,7 +39,7 @@ Backend Dev / SRE junior+ ✨
 
 <details><summary>Projects</summary>
 
-   1. [Scientific research work](https://github.com/rottenpearr/lattice_definition)
+   1. [Scientific research work (Дипломная работа)](https://github.com/rottenpearr/lattice_definition)
    2. [Хакатон ФТИ 2024](https://github.com/mruax/KIKORIKI_hackathon)
    3. [Хакатон Сбер Уральский код 2024](https://github.com/m3kskssssssss/web-uralsky-pelmeni)
    4. [Хакатон T1 2025](https://github.com/mruax/T1_Terraform_Hackathon)
