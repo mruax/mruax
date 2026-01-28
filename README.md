@@ -4,12 +4,12 @@
 
 hii
 
-### CV's (редактирую данный вариант
+### CV's (редактирую данный вариант)
 
 <table style="border: none;">
   <tr>
     <td align="center" valign="top">
-      <a href="example.com">
+      <a href="https://example.com">
         <img src="/src/CV_ICON.png" width="150"><br />
       </a>
       <sub><b>Подпись к первой</b></sub>
@@ -29,7 +29,9 @@ hii
   </tr>
 </table>
 
+<!--
 ![CV1](/src/CV_ICON.png)()
+-->
 
 ### Links
 
