@@ -23,7 +23,7 @@ Click on the pictures to follow the links
         <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
       </td>
       <td align="center" style="border: none;">
-        <a href="Achievements/Achievements.md"><img src="/src/Achievements_ICON.png" width="50"></a><br />All achievements
+        <a href="Achievements/Achievements.md"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements
       </td>
     </tr>
   </table>
