@@ -24,11 +24,9 @@ hii
         <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />LinkedIn
       </td>
       -->
-      <!--
       <td align="center" style="border: none;">
-        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
+        <a href="https://ekaterinburg.hh.ru/resume/3ec007a0ff0fff453b0039ed1f6952564251792"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
       </td>
-      -->
       <!--
       <td align="center" style="border: none;">
         <a href="CVs/cv2"><img src="/src/Achievements_ICON.png" width="50"></a><br />Все достижения
