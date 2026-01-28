@@ -28,13 +28,24 @@ hii
 
 <p align="left">
   <kbd>
-    <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a>
-    <br>Подпись 1
+    <a href="ССЫЛКА_1">
+      <img src="/src/CV_ICON.png" width="100">
+    </a>
+    <div align="center">Подпись 1</div>
   </kbd>
   &nbsp;
   <kbd>
-    <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="50"></a>
-    <br>Здесь будет вторая сивишка
+    <a href="ССЫЛКА_2">
+      <img src="/src/CV_ICON.png" width="100">
+    </a>
+    <div align="center">Подпись 2 sdjkfskjdf sdfkjhsdfjkh</div>
+  </kbd>
+  &nbsp;
+  <kbd>
+    <a href="ССЫЛКА_3">
+      <img src="/src/CV_ICON.png" width="100">
+    </a>
+    <div align="center">Подпись 3</div>
   </kbd>
 </p>
 
