@@ -34,15 +34,15 @@ hii
     <br />
     <span>Подпись 1</span>
   </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <div style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="ССЫЛКА_2">
       <img src="/src/CV_ICON.png" width="120">
     </a>
     <br />
-    <span>Подпись 2</span>
+    <span>Подпись 2 asdsad saasdas</span>
   </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <div style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="ССЫЛКА_3">
       <img src="/src/CV_ICON.png" width="120">
