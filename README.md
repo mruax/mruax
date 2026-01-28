@@ -27,29 +27,16 @@ hii
 -->
 
 <div align="left">
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <a href="ССЫЛКА_1">
-      <img src="/src/CV_ICON.png" width="120">
-    </a>
-    <br />
-    <span>Подпись 1</span>
-  </div>
-  &nbsp;
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <a href="ССЫЛКА_2">
-      <img src="/src/CV_ICON.png" width="120">
-    </a>
-    <br />
-    <span>Подпись 2 asdsad saasdas</span>
-  </div>
-  &nbsp;
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
-    <a href="ССЫЛКА_3">
-      <img src="/src/CV_ICON.png" width="120">
-    </a>
-    <br />
-    <span>Подпись 3</span>
-  </div>
+  <table border="0">
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <a href="ССЫЛКА_1"><img src="/src/CV_ICON.png" width="50"></a><br />Подпись 1
+      </td>
+      <td align="center" style="border: none;">
+        <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="50"></a><br />Подпись 2 asdsad asdasd
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--
