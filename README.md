@@ -26,28 +26,31 @@ hii
 </table>
 -->
 
-<p align="left">
-  <kbd>
+<div align="left">
+  <div style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="ССЫЛКА_1">
-      <img src="/src/CV_ICON.png" width="100">
+      <img src="/src/CV_ICON.png" width="120">
     </a>
-    <div align="center">Подпись 1</div>
-  </kbd>
-  &nbsp;
-  <kbd>
+    <br />
+    <span>Подпись 1</span>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="ССЫЛКА_2">
-      <img src="/src/CV_ICON.png" width="100">
+      <img src="/src/CV_ICON.png" width="120">
     </a>
-    <div align="center">Подпись 2 sdjkfskjdf sdfkjhsdfjkh</div>
-  </kbd>
-  &nbsp;
-  <kbd>
+    <br />
+    <span>Подпись 2</span>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="ССЫЛКА_3">
-      <img src="/src/CV_ICON.png" width="100">
+      <img src="/src/CV_ICON.png" width="120">
     </a>
-    <div align="center">Подпись 3</div>
-  </kbd>
-</p>
+    <br />
+    <span>Подпись 3</span>
+  </div>
+</div>
 
 <!--
 ![CV1](/src/CV_ICON.png)()
