@@ -4,27 +4,23 @@
 
 hii
 
-### CV's (редактирую данный вариант)
+### CV's
 
-<table style="border: none;">
+<table border="0">
   <tr>
-    <td align="center" valign="top">
-      <a href="https://example.com">
-        <img src="/src/CV_ICON.png" width="150"><br />
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://career.habr.com/san4o_pan4o">
+        <img src="/src/CV_ICON.png" width="50" alt="CV1">
       </a>
-      <sub><b>Подпись к первой</b></sub>
+      <br />
+      <span>Habr Career</span>
     </td>
-    <td align="center" valign="top">
-      <a href="ВАША_ССЫЛКА_2">
-        <img src="/src/CV_ICON.png" width="150"><br />
+    <td align="center" width="33%" style="border: none;">
+      <a href="cv2">
+        <img src="/src/CV_ICON.png" width="50" alt="CV2">
       </a>
-      <sub><b>Подпись ко второй</b></sub>
-    </td>
-    <td align="center" valign="top">
-      <a href="ВАША_ССЫЛКА_3">
-        <img src="/src/CV_ICON.png" width="150"><br />
-      </a>
-      <sub><b>Подпись к третьей</b></sub>
+      <br />
+      <span>Здесь будет вторая сивишка</span>
     </td>
   </tr>
 </table>
