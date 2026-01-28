@@ -2,7 +2,7 @@
 
 </br>
 
-hii
+hii! you can check some of my projects in starred lists
 
 ### CV's
 
