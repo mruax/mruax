@@ -13,7 +13,17 @@ hii
       </td>
       <!--
       <td align="center" style="border: none;">
-        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />To Be
+        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />HH
+      </td>
+      -->
+      <!--
+      <td align="center" style="border: none;">
+        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />LinkedIn
+      </td>
+      -->
+      <!--
+      <td align="center" style="border: none;">
+        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
       </td>
       -->
     </tr>
