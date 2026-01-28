@@ -26,15 +26,15 @@ hii
 </table>
 -->
 
-<p align="center">
+<p align="left">
   <kbd>
-    <a href="ССЫЛКА_1"><img src="/src/CV_ICON.png" width="100"></a>
+    <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a>
     <br>Подпись 1
   </kbd>
   &nbsp;
   <kbd>
-    <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="100"></a>
-    <br>Подпись 2
+    <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="50"></a>
+    <br>Здесь будет вторая сивишка
   </kbd>
 </p>
 
