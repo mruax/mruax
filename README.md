@@ -6,7 +6,7 @@ hii
 
 ### CV's
 
-Нажмите на картинки, чтобы перейти по ссылкам
+Click on the pictures to follow the links
 
 <div align="left">
   <table border="0">
@@ -16,22 +16,15 @@ hii
       </td>
       <!--
       <td align="center" style="border: none;">
-        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />HH
-      </td>
-      -->
-      <!--
-      <td align="center" style="border: none;">
         <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />LinkedIn
       </td>
       -->
       <td align="center" style="border: none;">
         <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
       </td>
-      <!--
       <td align="center" style="border: none;">
-        <a href="CVs/cv2"><img src="/src/Achievements_ICON.png" width="50"></a><br />Все достижения
+        <a href="Achievements/Achievements.md"><img src="/src/Achievements_ICON.png" width="50"></a><br />All achievements
       </td>
-      -->
     </tr>
   </table>
 </div>
