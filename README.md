@@ -12,7 +12,7 @@ Click on the pictures to follow the links
   <table border="0">
     <tr style="border: none;">
       <td align="center" style="border: none;">
-        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />Habr Career
+        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV/SRE
       </td>
       <!--
       <td align="center" style="border: none;">
