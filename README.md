@@ -5,43 +5,20 @@
 hii
 
 ### CV's
-<!--
-<table border="0">
-  <tr>
-    <td align="center" width="33%" style="border: none;">
-      <a href="https://career.habr.com/san4o_pan4o">
-        <img src="/src/CV_ICON.png" width="50" alt="CV1">
-      </a>
-      <br />
-      <span>Habr Career</span>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <a href="cv2">
-        <img src="/src/CV_ICON.png" width="50" alt="CV2">
-      </a>
-      <br />
-      <span>Здесь будет вторая сивишка</span>
-    </td>
-  </tr>
-</table>
--->
-
 <div align="left">
   <table border="0">
     <tr style="border: none;">
       <td align="center" style="border: none;">
-        <a href="ССЫЛКА_1"><img src="/src/CV_ICON.png" width="50"></a><br />Подпись 1
+        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />Habr Career
       </td>
+      <!--
       <td align="center" style="border: none;">
-        <a href="ССЫЛКА_2"><img src="/src/CV_ICON.png" width="50"></a><br />Подпись 2 asdsad asdasd
+        <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />To Be
       </td>
+      -->
     </tr>
   </table>
 </div>
-
-<!--
-![CV1](/src/CV_ICON.png)()
--->
 
 ### Links
 
