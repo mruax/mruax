@@ -5,6 +5,9 @@
 hii
 
 ### CV's
+
+Нажмите на картинки, чтобы перейти по ссылкам
+
 <div align="left">
   <table border="0">
     <tr style="border: none;">
@@ -24,6 +27,11 @@ hii
       <!--
       <td align="center" style="border: none;">
         <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
+      </td>
+      -->
+      <!--
+      <td align="center" style="border: none;">
+        <a href="CVs/cv2"><img src="/src/Achievements_ICON.png" width="50"></a><br />Все достижения
       </td>
       -->
     </tr>
