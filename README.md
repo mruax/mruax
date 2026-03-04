@@ -2,7 +2,7 @@
 
 </br>
 
-hii! you can check some of my projects in starred lists
+hii! you can check some of my projects in starred lists, also pinned some of interesting projects
 
 ### CV's
 
@@ -46,7 +46,7 @@ Backend Dev / SRE junior+ ✨
 
 ### Contributing
 
-<details><summary>Projects</summary>
+<details><summary>Projects (click me)</summary>
 
    1. [Scientific research work (Дипломная работа)](https://github.com/rottenpearr/lattice_definition)
    2. [Хакатон ФТИ 2024](https://github.com/mruax/KIKORIKI_hackathon)
