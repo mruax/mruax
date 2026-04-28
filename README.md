@@ -12,7 +12,7 @@ Click on the pictures to follow the links
   <table border="0">
     <tr style="border: none;">
       <td align="center" style="border: none;">
-        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV/SRE
+        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV+SRE CV/Резюме
       </td>
       <!--
       <td align="center" style="border: none;">
@@ -20,10 +20,10 @@ Click on the pictures to follow the links
       </td>
       -->
       <td align="center" style="border: none;">
-        <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
+        <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV/Научное резюме
       </td>
       <td align="center" style="border: none;">
-        <a href="Achievements/Achievements.md"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements
+        <a href="https://disk.yandex.com/d/Jb3I7pkP2E98DA"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements/Достижения
       </td>
     </tr>
   </table>
