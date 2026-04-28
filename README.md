@@ -20,7 +20,7 @@ Click on the pictures to follow the links ^-^
         <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV+SRE CV
       </td>
       <td align="center" style="border: none;">
-        <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
+        <a href="https://ekaterinburg.hh.ru/resume/3ec007a0ff0fff453b0039ed1f695256425179"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
       </td>
       <td align="center" style="border: none;">
         <a href="https://disk.yandex.com/d/Jb3I7pkP2E98DA"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements / Достижения
