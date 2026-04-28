@@ -2,28 +2,28 @@
 
 </br>
 
-hii! you can check some of my projects in starred lists, also pinned some of interesting projects
+hii! you can check some of my projects in **starred lists**, also pinned some of interesting projects
 
 ### CV's
 
-Click on the pictures to follow the links
+Click on the pictures to follow the links ^-^
 
 <div align="left">
   <table border="0">
     <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV+SRE CV/Резюме
-      </td>
       <!--
       <td align="center" style="border: none;">
         <a href="CVs/cv2"><img src="/src/CV_ICON.png" width="50"></a><br />LinkedIn
       </td>
       -->
       <td align="center" style="border: none;">
-        <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV/Научное резюме
+        <a href="https://career.habr.com/san4o_pan4o"><img src="/src/CV_ICON.png" width="50"></a><br />DEV+SRE CV
       </td>
       <td align="center" style="border: none;">
-        <a href="https://disk.yandex.com/d/Jb3I7pkP2E98DA"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements/Достижения
+        <a href="cvs/ScienceCV_28_01_26.pdf"><img src="/src/CV_ICON.png" width="50"></a><br />Science CV
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://disk.yandex.com/d/Jb3I7pkP2E98DA"><img src="/src/Achievements_ICON.png" width="50"></a><br />Achievements / Достижения
       </td>
     </tr>
   </table>
@@ -39,14 +39,14 @@ Click on the pictures to follow the links
 
 ### About me
 
-Backend Dev / SRE junior+ ✨
+Python Backend Dev / SRE junior+ ✨
 ![Logo](/src/sticker.png)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Contributing
 
-<details><summary>Projects (click me)</summary>
+<details><summary open>Projects (click me)</summary>
 
    1. [Scientific research work (Дипломная работа)](https://github.com/rottenpearr/lattice_definition)
    2. [Хакатон ФТИ 2024](https://github.com/mruax/KIKORIKI_hackathon)
